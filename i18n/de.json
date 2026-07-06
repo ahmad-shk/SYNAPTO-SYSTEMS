@@ -1,0 +1,710 @@
+{
+  "Navigation": {
+    "home": "Startseite",
+    "homeMulti": "Startseite Mehrseitig",
+    "homeOne": "Startseite Einzelseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "team": "Team",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "pricing": "Preise",
+    "projects": "Projekte",
+    "news": "Neuigkeiten",
+    "faq": "FAQ",
+    "home01": "Home 01",
+    "home02": "Home 02",
+    "home03": "Home 03",
+    "home04": "Home 04",
+    "home05": "Home 05",
+    "home06": "Home 06",
+    "multiPage": "Mehrseitig",
+    "onePage": "Einzelseite",
+    "pages": "Seiten",
+    "projectDetails": "Projektdetails",
+    "serviceDetails": "Dienstleistungsdetails",
+    "teamDetails": "Teamdetails",
+    "pricingTable": "Preistabelle",
+    "fourZeroFour": "404 Seite",
+    "blogDetails": "Blogdetails",
+    "makeCall": "Anrufen",
+    "getQuote": "Angebot anfordern",
+    "testimonial": "Kundenmeinung",
+    "contactInfo": "Kontakt-Info",
+    "workingHours": "Mo-Fr, 09:00 - 17:00",
+    "contactUs": "Kontaktieren Sie uns",
+    "aboutContact": "Optimieren Sie Ihr Geschäft mit integrierten digitalen Lösungen. Vom Kassensystem bis zur Online-Bestellung sind wir für Sie da.",
+    "phone": "+43 676 3008251",
+    "email": "ernova.digital.office@gmail.com"
+  },
+  "Footer": {
+    "discuss": "Lassen Sie uns über {span} sprechen",
+    "yourProjects": "Ihre Projekte",
+    "getStarted": "Loslegen",
+    "aboutUs": "Über uns",
+    "aboutDesc": "Optimierung Ihres Geschäfts mit integrierten digitalen Lösungen. Vom Kassensystem bis zur Online-Bestellung sind wir für Sie da.",
+    "quickLink": "Schnellzugriff",
+    "getInTouch": "Kontakt aufnehmen",
+    "recentNews": "Neuigkeiten",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Weitere Updates erhalten",
+    "emailPlaceholder": "Ihre E-Mail",
+    "allRightsReserved": "Alle Rechte vorbehalten",
+    "address": "Gisela-Legath-Gasse 5/1, 1220 Wien",
+    "terms": "Impressum",
+    "privacy": "Datenschutz",
+    "support": "Support",
+    "product": "Produkt",
+    "popularServices": "Beliebte Dienste",
+    "teamMember": "Teammitglied",
+    "privacySetting": "Privatspäre-Einstellungen",
+    "pricingPackage": "Preispaket",
+    "pricingPlan": "Preisplan",
+    "shopSmart": "Smart Shoppen",
+    "mobileApp": "Mobile App",
+    "optimizations": "Optimierung & Marketing",
+    "addressText": "Gisela-Legath-Gasse 5/1 \n 1220 Wien",
+    "email": "ernova.digital.office@gmail.com",
+    "phone": "+43 676 3008251",
+    "cookiePolicy": "Cookie-Richtlinie"
+  },
+  "Hero": {
+    "title": "Vollständiges Bestell- und Liefersystem für Ihren Shop",
+    "getStarted": "Mehr erfahren",
+    "viewServices": "Dienste ansehen",
+    "trusted": "Unternehmen weltweit \n vertrauen uns",
+    "getConsultations": "Beratung anfordern",
+    "formName": "Ihr Name",
+    "formEmail": "E-Mail-Adresse",
+    "formPhone": "Telefonnummer",
+    "formAgree": "AGB gelesen und akzeptiert {termsLink}"
+  },
+  "About": {
+    "subtitle": "Über das Unternehmen",
+    "title": "Vorbereitung Ihres Erfolgs \n Vertrauenswürdige IT-Dienste",
+    "experience": "25+ Jahre Erfahrung",
+    "awards": "Preisgekröntes Unternehmen",
+    "description": "Ernova bietet eine komplette Suite von Tools, die Ihrem Unternehmen helfen, online und offline zu wachsen.",
+    "list1": "Mühelos mit Leads verbinden.",
+    "list2": "Schnelle Zahlungen direkt aus Meetings",
+    "list3": "Leads finden, die schnell konvertieren",
+    "learnMore": "Erfahren Sie mehr über uns",
+    "authorRole": "Mitbegründer",
+    "awardsWinning": "Preisgekröntes Unternehmen"
+  },
+  "Hero1": {
+    "title": "Wir kümmern uns um \n Ihre IT-Lösungen \n & bieten die besten \n Services",
+    "btnStarted": "Jetzt loslegen",
+    "btnServices": "Services anzeigen",
+    "trusted": "Über 1 Million Menschen \n weltweit vertrauen uns",
+    "formTitle": "Beratung erhalten",
+    "formDesc": "Bereit, sich für unsere Ernova-Services anzumelden",
+    "formName": "Ihr Name",
+    "formEmail": "E-Mail-Adresse",
+    "formPhone": "Telefonnummer",
+    "formAgree": "Ich habe die <termsLink>Nutzungsbedingungen</termsLink> gelesen und stimme zu",
+    "formBtn": "Jetzt loslegen"
+  },
+  "Marquee": {
+    "itConsulting": "IT-Beratung",
+    "co": "GmbH",
+    "machineLearning": "Maschinelles Lernen",
+    "webDev": "Webentwicklung"
+  },
+  "Services": {
+    "subtitle": "Beliebte Dienste",
+    "title": "Wir bieten beste Qualität \n für Ihr Unternehmen",
+    "dataCenter": "Rechenzentrum & Cloud",
+    "webDev": "Webentwicklung Software",
+    "itManagement": "IT-Management & KI",
+    "digitalProduct": "UI/UX Design",
+    "itCare": "Geschäftserfolg mit IT-Lösungen",
+    "readMore": "Weiterlesen",
+    "keywordResearch": "Smart Shoppen",
+    "socialMedia": "Social Media Marketing",
+    "emailMarketing": "E-Mail-Marketing",
+    "contentWriting": "Mobile App",
+    "webDevelopment": "Website Entwicklung",
+    "seoOptimizations": "SEO Optimierung",
+    "siteOptimizations": "Optimierung & Marketing",
+    "serviceDesc": "Webshop mit Bestell- und Liefersystem für Ihr Restaurant oder Geschäft",
+    "serviceDescApp": "Mobile Anwendung für Ihr Restaurant oder Geschäft",
+    "serviceDescOpt": "Optimierung & Marketing für Ihr Restaurant oder Geschäft",
+    "learnMore": "Mehr erfahren"
+  },
+  "Common": {
+    "contact": "Kontakt",
+    "learnMore": "Mehr erfahren",
+    "readMore": "Weiterlesen",
+    "getStarted": "Loslegen",
+    "submit": "Jetzt senden",
+    "viewMoreMembers": "Mehr Mitglieder ansehen"
+  },
+  "Team": {
+    "subtitle": "Teammitglied",
+    "title": "Lernen Sie unser professionelles \n Team kennen",
+    "description": "Unsere Experten sind hier, um Ihnen bei jedem Schritt zu helfen.",
+    "productDesigner": "Produktdesigner",
+    "itConsultant": "IT-Berater",
+    "seniorManager": "Senior Manager",
+    "webDesigner": "Webdesigner",
+    "ceo": "Geschäftsführer & Gründer"
+  },
+  "Pricing": {
+    "subtitle": "Preispaket",
+    "title": "Wir bieten die beste Qualität \n für Ihr Unternehmen",
+    "title1": "Beliebte Preise für IT-Beratung",
+    "title2": "Wir bieten erstaunliche Preispakete \n im Budgetrahmen",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "regular": "Standard Plan",
+    "business": "Business Plan",
+    "professional": "Profi Plan",
+    "standard": "Basis Plan",
+    "premium": "Premium Plan",
+    "smallBusiness": "Für Kleinunternehmen",
+    "month": "/Monat",
+    "choosePackage": "Paket wählen",
+    "off": "{percent}% RABATT",
+    "pricingDesc": "Wählen Sie den perfekten Plan, um Ihr Unternehmen mit unseren maßgeschneiderten digitalen Lösungen effizient zu skalieren.",
+    "itConsulting": "IT-Beratung",
+    "digitalProduct": "Digitales Produktdesign",
+    "machineLearning": "Maschinelles Lernen",
+    "automation": "Automatisierungsvorlagen",
+    "support": "Erstklassiger Support",
+    "blogCopy": "Blog & Artikel Kopie",
+    "ecommerceCopy": "E-Commerce Kopie",
+    "socialMedia": "Social Media Kopie",
+    "contentWritingFeature": "Erweiterte Funktion zum Schreiben von Inhalten",
+    "adProviding": "Tipps zur Anzeigenbereitstellung"
+  },
+  "Home6": {
+    "hero": {
+      "welcome": "Willkommen bei Next Agency",
+      "title": "Die 10-mal schnellere Zukunft bauen \n mit künstlicher Intelligenz",
+      "feature1": "10-mal schnellerer Power-Buster",
+      "feature2": "Verarbeitung natürlicher Sprache",
+      "feature3": "Maschinelles Lernsystem",
+      "emailPlaceholder": "E-Mail-Adresse",
+      "signUpFree": "Kostenlos registrieren"
+    },
+    "workProcess": {
+      "subtitle": "Arbeitsprozess",
+      "title": "Schnellere Lösungen erhalten auf \n sehr einfache Weise",
+      "step1Title": "Ein Konto erstellen",
+      "step1Desc": "Erstberatung zum Verständnis Ihrer einzigartigen Geschäftsanforderungen.",
+      "step2Title": "Ihre Inhalte generieren",
+      "step2Desc": "Tiefes Eintauchen in Markttrends, um Ihre Marke effektiv zu positionieren.",
+      "step3Title": "Endergebnisse erhalten",
+      "step3Desc": "Einsatz von maßgeschneiderten Tools und Strategien für maximale Wirkung."
+    },
+    "popularService": {
+      "subtitle": "Beliebter Service",
+      "title": "Erleben Sie die volle Leistung der KI \n Generieren Sie Ihre Daten",
+      "service1Title": "Blog-Beiträge & Geschichten",
+      "service1Desc": "Fortschrittliche Datenanalyse für fundierte Geschäftsentscheidungen und Wachstum.",
+      "service2Title": "Social-Media-Inhalte",
+      "service2Desc": "Intelligente Automatisierungstools, um Ihre täglichen Abläufe zu rationalisieren und Zeit zu sparen.",
+      "service3Title": "E-Commerce-Texte",
+      "service3Desc": "Maßgeschneiderte KI-gesteuerte Lösungen, die auf Ihre spezifischen Branchenanforderungen zugeschnitten sind.",
+      "service4Title": "Tipps zum Anzeigen-Targeting",
+      "service4Desc": "Sichere und skalierbare Cloud-Infrastruktur für Ihre wachsende digitale Präsenz.",
+      "service5Title": "Inhalts-Umschreiber",
+      "service5Desc": "Echtzeit-Überwachung und Support, um sicherzustellen, dass Ihre Systeme rund um die Uhr reibungslos laufen.",
+      "service6Title": "Optimiert für Conversions",
+      "service6Desc": "Benutzerzentriertes Design, das darauf ausgerichtet ist, Ihren Kunden das beste Erlebnis zu bieten.",
+      "readMore": "Mehr lesen"
+    },
+    "featureVideo": {
+      "subtitle": "Was wir tun",
+      "title": "Bessere Lösungen, um Ihr Leben \n einfacher zu machen",
+      "desc": "Entfesseln Sie das wahre Potenzial Ihres Unternehmens mit unseren maßgeschneiderten digitalen Lösungen für Wachstum.",
+      "feature1Title": "Einfach schreiben und mehr Kopie-Variationen testen",
+      "feature1Desc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur",
+      "feature2Title": "Einfach schreiben und mehr Kopie-Variationen testen",
+      "feature2Desc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur"
+    },
+    "coreFeatures": {
+      "subtitle": "Kernfunktionen",
+      "title": "Nutzen Sie die Kraft der KI & erstellen Sie Inhalte schneller",
+      "desc": "Entfesseln Sie das wahre Potenzial Ihres Unternehmens mit unseren maßgeschneiderten digitalen Lösungen für Wachstum.",
+      "list1": "Verbinden Sie sich mühelos mit Leads.",
+      "list2": "Nehmen Sie schnelle Zahlungen direkt aus Besprechungen entgegen",
+      "list3": "Finden Sie Leads, die schnell konvertieren",
+      "signUpFree": "Kostenlos registrieren"
+    },
+    "testimonial": {
+      "subtitle": "Kunden-Feedback",
+      "title": "Was unsere Kunden über uns sagen",
+      "viewMore": "Mehr ansehen",
+      "trustedBy": "Vertraut von mehr als 1 Mio. Menschen \n auf der ganzen Welt"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "desc": "Der Ansatz für digitales Marketing und Werbung konzentriert sich auf die Erfassung des Wesentlichen",
+      "q1": "Warum ist digitales Marketing für den Geschäftsaufbau erforderlich?",
+      "a1": "Unsere Plattform nutzt modernste Technologie, um Ihnen zu helfen, in Sekundenschnelle hochwertige Inhalte zu erstellen, die auf Ihre Markenstimme zugeschnitten sind.",
+      "q2": "Wie kann der Web-Traffic erhöht werden?",
+      "a2": "Durch den Einsatz von SEO-optimierten Inhalten und Automatisierung helfen wir Ihnen, ein breiteres Publikum zu erreichen und mehr organischen Traffic zu generieren.",
+      "q3": "Wie entwickelt man eine SEO-Optimierung?",
+      "a3": "Effektives SEO umfasst technische Audits, Keyword-Strategien und die Erstellung hochwertiger Inhalte, bei denen unsere Tools Sie unterstützen.",
+      "q4": "Haben Sie professionelle Teammitglieder?",
+      "a4": "Ja, unser Team besteht aus Experten für digitales Marketing und Software-Engineering, die sich der Bereitstellung der besten Lösungen verschrieben haben.",
+      "q5": "Haben Sie globale Kunden?",
+      "a5": "Ernova verfügt über ein vielfältiges Portfolio an globalen Kunden aus verschiedenen Branchen und bietet lokalisierte Lösungen, die internationalen Qualitätsstandards entsprechen.",
+      "q6": "Wie kann Voreingenommenheit in KI-Algorithmen angegangen werden?",
+      "a6": "Wir gehen algorithmische Voreingenommenheit an, indem wir vielfältige Daten verwenden und strenge Tests implementieren, um faire und genaue Ergebnisse zu gewährleisten.",
+      "q7": "Sind KI und maschinelles Lernen dasselbe?",
+      "a7": "Obwohl sie verwandt sind, ist KI das umfassende Konzept intelligenter Maschinen, während maschinelles Lernen eine Untergruppe ist, die sich auf das Lernen aus Daten konzentriert.",
+      "q8": "Wie entwickelt man eine SEO-Optimierung?",
+      "a8": "Kontinuierliche Überwachung und Algorithmus-Updates sind der Schlüssel zur Aufrechterhaltung der Spitzenleistung in einer sich ständig verändernden digitalen Landschaft.",
+      "q9": "Kann KI menschliche Arbeitsplätze ersetzen?",
+      "a9": "Die Technologie ist darauf ausgelegt, die menschlichen Fähigkeiten zu erweitern und sich wiederholende Aufgaben zu übernehmen, damit Sie sich auf kreativere und strategischere Aufgaben konzentrieren können.",
+      "q10": "Wie kann ich mehr über KI erfahren und in das Feld einsteigen?",
+      "a10": "Sie können beginnen, indem Sie unsere Tutorials, Blogbeiträge und Dokumentationen erkunden, um Ihr Wissen und Ihre Fähigkeiten aufzubauen."
+    },
+    "newsletter": {
+      "subtitle": "Newsletter",
+      "title": "Starten Sie jetzt eine kostenlose 7-Tage-Testversion und erhalten Sie weitere Updates",
+      "ctaTitle": "Abonnieren Sie unseren Newsletter",
+      "emailPlaceholder": "E-Mail-Adresse",
+      "signUp": "Registrieren"
+    },
+    "partners": "Wir haben <span1>1563+</span1> globale Partner. Erkunden Sie unsere globalen Kunden"
+  },
+  "News": {
+    "subtitle": "Neueste Nachrichten",
+    "title": "Lesen Sie unseren neuesten \n Blog & News",
+    "item1": "Revealing Images With Animations Gradients, Blend Modes Cool",
+    "item2": "List of 5 ways Generating Real Time Audio Sentiment Analysis",
+    "item3": "Revealing Images With Animations Gradients, Blend Modes Cool",
+    "date": "25. November 2026"
+  },
+  "CaseStudy": {
+    "subtitle": "Beliebte Fallstudie",
+    "title": "Entdecken Sie unsere beliebte Fallstudie \n die wir weltweit abschließen",
+    "viewMore": "Mehr Fälle ansehen",
+    "itConsulting": "IT-Beratung",
+    "machineLearning": "Maschinelles Lernen",
+    "softwareDesign": "Softwaredesign",
+    "item1": "How to achieve more with your nine to five",
+    "item2": "Strategies for outstanding future results",
+    "item3": "Discover a better way of system defining company goals."
+  },
+  "ProjectSlider": {
+    "productSales": "Product Sales",
+    "item1": "Product Sale Revenue And How to Growth your product Sales",
+    "digitalMarketing": "Digital Marketing",
+    "item2": "How to Improve your Digital Product Marketing to grow business",
+    "seoAnalysis": "SEO Analysis",
+    "item3": "How Important SEO for Develop Product Marketing",
+    "webOptimization": "Web Optimization",
+    "item4": "Top 10 Resources for Build Web Traffic and grow Web Optimization"
+  },
+  "Home2": {
+    "hero": {
+      "exp": "25+ Jahre Erfahrung",
+      "title": "Build your Web Traffic With \n Our Next Agency",
+      "btn": "Mehr erfahren"
+    }
+  },
+  "Home3": {
+    "hero": {
+      "exp": "25+ Jahre Erfahrung",
+      "title": "The Effective \n Solutions To Grow \n your {span}",
+      "span": "Business",
+      "desc": "Sed ut perspiciatis unde omnis iste natus voluptatem \n accusantium doloremque laudantium, totam rem aperiam",
+      "discover": "Mehr entdecken",
+      "viewServices": "Dienste anzeigen"
+    },
+    "offer": {
+      "subtitle": "Was wir anbieten",
+      "title": "Das Geschäft lässt sich in alle \n Ihre Lieblingstools integrieren",
+      "consulting": "Unternehmensberatung",
+      "financial": "Finanzplanung",
+      "marketing": "Marketing & Vertrieb ausbauen",
+      "technology": "Modernisierung & Technologie",
+      "desc": "Wir haben uns um Ihre Geschäftslösungen gekümmert"
+    },
+    "about": {
+      "trusted": "Vertrauen von über 1 Million Menschen \n auf der ganzen Welt",
+      "btn": "Erfahren Sie mehr über uns"
+    },
+    "boost": {
+      "title": "Bereit, das Geschäft zu beflügeln? \n & Produktverkauf ?",
+      "desc": "Sed ut perspiciatis unde omnis iste natus voluptatem \n accusantium doloremque laudantium totam",
+      "btn": "Jetzt loslegen"
+    }
+  },
+  "Home4": {
+    "hero": {
+      "exp": "25+ Jahre Erfahrung",
+      "title": "Das perfekte digitale Marketing für Ihr Business",
+      "desc": "Sed ut perspiciatis unde omnis iste natus voluptatem \n accusantium doloremque laudantium, totam rem aperiam",
+      "learnMore": "Mehr erfahren",
+      "trusted": "Vertrauen von über 1 Million Menschen \n auf der ganzen Welt"
+    },
+    "brand": {
+      "title": "Wir haben {span} globale Partner. Entdecken Sie unsere Kunden",
+      "span": "1563+"
+    },
+    "about": {
+      "subtitle": "Über das Unternehmen",
+      "title": "Wir haben ein erfahrenes Team, das Ihr Geschäft führt",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit volupta \n temes accusantium doloremque laudantium, totam rem",
+      "list1": "Marketingstrategie & SEO-Camping",
+      "list2": "Beste Kundenerfahrung",
+      "btn": "Erfahren Sie mehr über uns"
+    },
+    "testimonial": {
+      "subtitle": "Referenzen",
+      "title": "Wir haben über 1250+ globale Kunden, die uns vertrauen"
+    },
+    "contact": {
+      "subtitle": "Kontaktieren Sie uns",
+      "title": "Bereit, Ihr digitales \n Produktmarketing anzukurbeln?",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error voluptatem \n accusantium doloremque laudantium, totam rem aperiam, \n eaque ipsa quae",
+      "btn": "Angebot anfordern"
+    }
+  },
+  "Home5": {
+    "hero": {
+      "sub": "Hallo, ich bin Mitchell E. Burke",
+      "title": "<span>Erfahrener digitaler</span> \n Produktdesigner",
+      "desc": "Sed ut perspiciatis unde omnis iste natus voluptatem \n accusantium doloremque laudantium, totam rem aperiam",
+      "hireMe": "Engagieren Sie mich",
+      "watchVideo": "IT-Video ansehen",
+      "exp": "25+ Jahre Erfahrung",
+      "awards": "Preisgekröntes Unternehmen"
+    },
+    "about": {
+      "sub": "Über mich",
+      "title": "Wir lösen Ihr Geschäftsproblem \n durch Design",
+      "btn": "Erfahren Sie mehr über uns"
+    },
+    "resume": {
+      "sub": "Lebenslauf",
+      "title": "Ausbildung & Erfahrung",
+      "items": {
+        "item1": {
+          "date": "2020 - Heute",
+          "title": "Framer Designer & Entwickler",
+          "desc": "Google-Agentur"
+        },
+        "item2": {
+          "date": "2018 - 2020",
+          "title": "Front-End WordPress Entwickler",
+          "desc": "Amazon-Agentur"
+        },
+        "item3": {
+          "date": "2014 - 2017",
+          "title": "Webflow Entwickler & Mitbegründer",
+          "desc": "XZS-Agentur"
+        },
+        "item4": {
+          "date": "2010 - 2013",
+          "title": "Leiter Team Marketing",
+          "desc": "Pixel-Agentur"
+        }
+      }
+    },
+    "service": {
+      "sub": "Beliebter Dienst",
+      "title": "Entdecken Sie unsere beliebten Dienste",
+      "website": "Webseiten-Design",
+      "digital": "Digitales Marketing",
+      "webflow": "Web-Entwicklung",
+      "branding": "Design & Branding",
+      "desc": "Wir haben Ihre Geschäftslösungen gefixt"
+    },
+    "skills": {
+      "sub": "Meine Fähigkeiten",
+      "title": "Fähigkeiten, in denen ich versiert bin"
+    },
+    "project": {
+      "sub": "Arbeitsgalerie",
+      "title": "Vorgestellte Projekte entdecken",
+      "btn": "Weitere Projekte anzeigen",
+      "cat1": "Produktdesign",
+      "cat2": "Webseiten-Design",
+      "p1": "Business Task Management \n Dashboard Design",
+      "p2": "Business Consulting Web \n Explorations Design",
+      "p3": "Mobile Applications Design",
+      "p4": "Furniture Website Design"
+    },
+    "pricing": {
+      "sub": "Preispaket",
+      "title": "Beliebte Preise für IT-Beratung",
+      "regular": "Regulärer Plan",
+      "business": "Business-Plan",
+      "pro": "Profi-Plan",
+      "small": "Für kleine Unternehmen",
+      "it": "IT-Beratung",
+      "design": "Digitales Produktdesign",
+      "ml": "Maschinelles Lernen",
+      "auto": "Automatisierungsvorlagen",
+      "support": "Toller Kundensupport",
+      "choose": "Paket wählen",
+      "month": "/Monat"
+    },
+    "testimonial": {
+      "sub": "Kunden-Feedback",
+      "title": "Über 1250+ globale Kunden vertrauen uns"
+    },
+    "contact": {
+      "sub": "Kontaktiere mich",
+      "title": "Haben Sie ein Projekt im Kopf? \n Lassen Sie uns zusammenarbeiten",
+      "name": "Vollständiger Name",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "btn": "Nachricht senden"
+    },
+    "global": {
+      "sub": "Globale Partner",
+      "title": "Wir haben über 1253+ globale Partner, \n treffen Sie unsere Kunden"
+    }
+  },
+  "BrandSlider": {
+    "web": "Web-Designer",
+    "mobile": "Mobile App Design",
+    "dashboard": "Dashboard-Design",
+    "digital": "Digitales Marketing"
+  },
+  "FunFact": {
+    "subtitle": "Unternehmensfakten",
+    "title": "Lernen Sie unsere Statistik kennen",
+    "conversionRate": "Durchschnittliche Konversionsrate",
+    "trafficGenerated": "Generierter Traffic",
+    "positiveReview": "Positive Kundenbewertung",
+    "proTeam": "Professionelle Teammitglieder",
+    "description": "Maßgeschneiderte digitale Lösungen, um Ihr Unternehmen auf dem modernen Markt voll zur Entfaltung zu bringen."
+  },
+  "Testimonial": {
+    "subtitle": "Testimonials",
+    "title": "Was unsere Kunden über \n unsere Dienstleistungen sagen",
+    "text": "Unverzichtbare Werkzeuge für jedes moderne Geschäft. Das System ist intuitiv und leistungsstark.",
+    "text2": "Wir prangern mit gerechter Empörung Männer an, die so von den Reizen des Vergnügens des Augenblicks betört und demoralisiert sind",
+    "text3": "„ Wir prangern mit gerechter Empörung Männer an, die so von den Reizen des Vergnügens des Augenblicks betört und demoralisiert sind, so verblendet von Begierde, dass sie nicht voraussehen können “",
+    "text4": "Unser Engagement für Exzellenz stellt sicher, dass jedes von uns durchgeführte Projekt den höchsten Qualitäts- und Leistungsstandards entspricht.",
+    "textContent": "Bei Ernova setzen wir uns dafür ein, innovative und zuverlässige digitale Tools bereitzustellen, die Unternehmen zum Erfolg verhelfen. Unser Expertenteam arbeitet eng mit Ihnen zusammen, um maßgeschneiderte Strategien und Hochleistungssysteme zu entwickeln, die langfristiges Wachstum und Effizienz für Ihre Marke gewährleisten.",
+    "author1": "Ernova-Benutzer"
+  },
+  "HomePage": {
+    "hero": {
+      "sub": "ERNOVA",
+      "title": "Vollständiges Bestell- und Liefersystem für Ihren Shop",
+      "desc": "Alles, was Sie zum Betrieb Ihres Shops benötigen: App, Kasse & Mehr.",
+      "btn": "Mehr erfahren"
+    },
+    "brand": {
+      "title": "Wir haben {count}+ globale Partner. Entdecken Sie unsere globalen Kunden"
+    },
+    "about_online_orders": {
+      "sub": "Bestellung",
+      "title": "Online-Bestellungen",
+      "desc": "Starten Sie online – mit Ihrer eigenen Website und App. Mehr Direktbestellungen und bis zu 20 % mehr Gewinn als bei Portalen.",
+      "feature1_title": "Maximierte Gewinnspannen",
+      "feature1_desc": "Verzichten Sie auf die hohen Provisionsgebühren von Drittanbietern und behalten Sie bis zu 20 % mehr Gewinn bei jeder einzelnen Bestellung über Ihre eigene App und Website.",
+      "feature2_title": "Anpassungsfähige Wachstumslösungen",
+      "feature2_desc": "Egal, ob Sie ein kleiner lokaler Shop oder eine wachsende Kette sind, unsere Lösung wächst mit Ihnen. Fügen Sie jederzeit neue Funktionen, Standorte oder Dienste hinzu, ohne das System zu wechseln."
+    },
+    "about_pos": {
+      "sub": "Kasse & Zahlungen",
+      "title": "Kasse & Zahlungen",
+      "desc": "Optimieren Sie Ihre Zahlungen im Geschäft und unterwegs mit unseren integrierten Kassen- und Zahlungslösungen. Akzeptieren Sie alle gängigen Zahlungsmethoden sicher und effizient.",
+      "feature1_title": "Alle Zahlungsmethoden akzeptieren",
+      "feature1_desc": "Akzeptieren Sie alle gängigen Zahlungsmethoden, einschließlich Kredit-/Debitkarten, mobilen Geldbörsen und Banküberweisungen. Sichere, schnelle und zuverlässige Transaktionen jedes Mal.",
+      "feature2_title": "Bestandssynchronisierung in Echtzeit",
+      "feature2_desc": "Verfolgen Sie Ihre Lagerbestände automatisch über alle Verkaufskanäle hinweg. Erhalten Sie Echtzeit-Updates, Benachrichtigungen bei niedrigem Lagerbestand und eine nahtlose Bestandsverwaltung, um Überverkäufe zu vermeiden."
+    },
+    "about_sales": {
+      "sub": "Umsatz steigern",
+      "title": "Umsatz steigern",
+      "desc": "Steigern Sie Ihren Umsatz mit unseren leistungsstarken Marketing-Tools. Erreichen Sie mehr Kunden, erhöhen Sie die Conversions und lassen Sie Ihr Unternehmen wachsen.",
+      "feature1_title": "Gezielte Marketingkampagnen",
+      "feature1_desc": "Führen Sie personalisierte Marketingkampagnen durch, um Kunden im richtigen Moment anzusprechen. Fördern Sie Folgegeschäfte mit gezielten Werbeaktionen und Treueprogrammen.",
+      "feature2_title": "Datengetriebene Einblicke",
+      "feature2_desc": "Nutzen Sie Echtzeitanalysen und Kundeneinblicke, um fundierte Entscheidungen zu treffen. Verstehen Sie, was den Umsatz antreibt, und optimieren Sie Ihre Strategien für maximale Wirkung."
+    },
+    "video_section": {
+      "title": "Steigern Sie Ihr Geschäft mit Ernova",
+      "desc": "Bei Ernova bieten wir umfassende digitale Marketinglösungen, die darauf ausgelegt sind, Ihre Marke zu stärken und messbare Ergebnisse zu erzielen. Von SEO und Content-Marketing bis hin zu Social-Media-Management und Webentwicklung erstellt unser Expertenteam Strategien, die auf Ihre einzigartigen Geschäftsziele zugeschnitten sind.",
+      "feature1_title": "Datengetriebene Strategien",
+      "feature1_desc": "Wir nutzen Echtzeitanalysen und Brancheneinblicke, um datengestützte Strategien zu entwickeln, die messbare Ergebnisse liefern. Jede Entscheidung ist datenbasiert, um Ihren ROI zu maximieren.",
+      "feature2_title": "Maßgeschneiderte Lösungen",
+      "feature2_desc": "Wir verstehen, dass jedes Unternehmen einzigartig ist. Unsere Strategien sind auf Ihre spezifischen Ziele, Ihre Branche und Ihre Zielgruppe zugeschnitten, um maximale Wirkung zu erzielen."
+    },
+    "newsletter": {
+      "sub": "Newsletter",
+      "title": "Starten Sie jetzt eine kostenlose 7-Tage-Testversion \n & erhalten Sie weitere Updates",
+      "desc": "Bleiben Sie mit unseren neuesten Nachrichten und Angeboten auf dem Laufenden.",
+      "placeholder": "E-Mail-Adresse",
+      "btn": "Anmelden"
+    }
+  },
+  "Home1": {
+    "hero": {
+      "exp": "25+ Jahre Erfahrung",
+      "title": "Bauen Sie Ihren Web-Traffic mit \n unserer Next Agency auf",
+      "btn": "Mehr erfahren"
+    },
+    "brands": {
+      "title": "Wir haben {count}+ globale Partner. Entdecken Sie unsere globalen Kunden"
+    },
+    "planning": {
+      "subtitle": "Planung & Wachstum",
+      "title": "Planung und Durchführung erfolgreicher Veranstaltungen",
+      "desc": "Bei Ernova helfen wir Ihnen bei der Planung und Durchführung erfolgreicher Veranstaltungen, \n die auf Ihre geschäftlichen Anforderungen zugeschnitten sind.",
+      "step1Title": "Marktforschung",
+      "step1Desc": "Die Liebe zum Detail und die Qualität sind in der Branche unvergleichlich",
+      "step2Title": "Content Marketing",
+      "step2Desc": "Die Liebe zum Detail und die Qualität sind in der Branche unvergleichlich",
+      "step3Title": "Kundensupport",
+      "step3Desc": "Die Liebe zum Detail und die Qualität sind in der Branche unvergleichlich"
+    }
+  },
+  "Imprint": {
+    "title": "Impressum",
+    "info": "Informationen gemäß § 5 ECG, § 25 Mediengesetz und § 14 UGB.",
+    "companyTitle": "Unternehmensinformationen",
+    "companyDesc": "Ernova bietet vollständige Bestell- und Liefersysteme, maßgeschneiderte mobile Anwendungen und digitale Marketingoptimierungen.",
+    "contactTitle": "Kontaktdaten",
+    "contactEmail": "E-Mail: ernova.digital.office@gmail.com",
+    "contactWeb": "Website: www.ernova.at",
+    "disclaimerTitle": "Haftungsausschluss",
+    "disclaimerDesc": "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß den allgemeinen Gesetzen für eigene Inhalte auf diesen Seiten verantwortlich."
+  },
+  "PrivacyPolicy": {
+    "title": "Datenschutzerklärung",
+    "intro": "Bei Ernova hat Ihre Privatsphäre Priorität. Diese Datenschutzerklärung beschreibt die Arten von Informationen, die wir sammeln, wie wir sie verwenden und wie wir Ihre personenbezogenen Daten schützen, wenn Sie unsere Website oder Dienste nutzen.",
+    "collectionTitle": "Informationserhebung",
+    "collectionDesc": "Wir können personenbezogene Daten wie Ihren Namen, Ihre E-Mail-Adresse, Ihre Telefonnummer und Ihre physische Adresse erfassen, wenn Sie sich für unsere Dienste registrieren, den Support kontaktieren oder mit unserer Website interagieren.",
+    "usageTitle": "Wie wir Ihre Informationen verwenden",
+    "usageDesc": "Die von uns gesammelten Informationen werden verwendet, um unsere Dienste für Sie bereitzustellen, zu warten und zu verbessern. Wir können sie auch verwenden, um mit Ihnen über Updates, Werbeangebote und Kundensupportanfragen zu kommunizieren.",
+    "securityTitle": "Datensicherheit",
+    "securityDesc": "Wir implementieren Sicherheitsmaßnahmen nach Branchenstandard, um sicherzustellen, dass Ihre persönlichen Daten vor unbefugtem Zugriff, Offenlegung, Änderung oder Zerstörung geschützt sind."
+  },
+  "CookiePolicy": {
+    "title": "Cookie-Richtlinie",
+    "intro": "Diese Cookie-Richtlinie erklärt, wie Ernova Cookies und ähnliche Technologien verwendet, um Sie beim Besuch unserer Website wiederzuerkennen.",
+    "whatTitle": "Was sind Cookies?",
+    "whatDesc": "Cookies sind kleine Datendateien, die auf Ihrem Computer oder Mobilgerät abgelegt werden, wenn Sie eine Website besuchen. Cookies werden von Website-Besitzern häufig verwendet, damit ihre Websites funktionieren oder effizienter arbeiten.",
+    "whyTitle": "Warum verwenden wir Cookies?",
+    "whyDesc": "Wir verwenden First-Party- und Third-Party-Cookies aus verschiedenen Gründen. Einige Cookies sind aus technischen Gründen erforderlich, damit unsere Website funktioniert.",
+    "controlTitle": "Wie kann ich Cookies kontrollieren?",
+    "controlDesc": "Sie haben das Recht zu entscheiden, ob Sie Cookies akzeptieren oder ablehnen. Sie können Ihre Cookie-Rechte ausüben, indem Sie Ihre Einstellungen in Ihrem Browser festlegen."
+  },
+  "GrowBusiness": {
+    "sub": "Wachsen Sie mit Ihrem Unternehmen",
+    "title": "Innovative Lösungen für Geschäftswachstum und Branding",
+    "desc": "Ernova stärkt Ihr Unternehmen mit leistungsstarken digitalen Tools, von der Online-Bestellung bis hin zu integrierten Kassensystemen. Unser Ziel ist es, Ihnen zu helfen, effizient zu skalieren und mehr Kunden mit Leichtigkeit zu erreichen.",
+    "increaseSales": "Umsatz steigern",
+    "reducedLosses": "Verluste reduzieren",
+    "businessGrowth": "Business-Wachstum",
+    "descShort": "Heben Sie Ihre Marke mit unseren innovativen Wachstumsstrategien und maßgeschneiderten digitalen Lösungen hervor."
+  },
+  "Cta": {
+    "title": "Bereit für Ihren Online-Shop? \n Holen Sie sich jetzt Ihre Website und App.",
+    "btn": "Kontaktieren Sie uns"
+  },
+  "Breadcrumb": {
+    "home": "Startseite"
+  },
+  "AboutPage": {
+    "sub": "Über das Unternehmen",
+    "title": "Wir steigern Ihre Website-Leads und Ihren Umsatz",
+    "desc": "Wir sind darauf spezialisiert, messbare Ergebnisse für unsere Kunden durch fortschrittliche Marketingtechniken und benutzerzentriertes Design zu erzielen. Unser Ansatz stellt sicher, dass Ihr Unternehmen in einem wettbewerbsintensiven Markt die Nase vorn hat.",
+    "qualityTitle": "Überlegene Arbeitsqualität",
+    "qualityDesc": "Unsere Liebe zum Detail und zur Qualität ist in der Branche unerreicht. \n Wir sind nicht nur ein Ressourcenanbieter, sondern auch ein wichtiger Partner",
+    "flexibleTitle": "Flexible Skalierung & Support",
+    "flexibleDesc": "In den frühen Jahren arbeitete unser engagiertes Team unermüdlich an wichtigen Meilensteinen oder Errungenschaften, wie Produkteinführungen, Partnerschaften oder Expansionen",
+    "learnMore": "Mehr erfahren",
+    "clientsCount": "Wir haben {count}+ Kunden"
+  },
+  "ServicePage": {
+    "breadcrumb": "Unsere Dienste",
+    "title": "Beliebte Dienste",
+    "coreFeatures": "Kernfunktionen"
+  },
+  "ServiceDetailsPage": {
+    "breadcrumb": "Ernova Digitale Lösungen",
+    "problemSub": "Problemlösungen",
+    "shopSmartTitle": "Smart Shoppen",
+    "shopSmartDesc": "Webshop mit Bestell- und Liefersystem für Ihr Restaurant oder Geschäft",
+    "shopSmartList1": "Starten Sie online mit Ihrer eigenen Website und App.",
+    "shopSmartList2": "Behalten Sie bis zu 20% mehr Gewinn bei jeder Online-Bestellung.",
+    "shopSmartList3": "Akzeptieren Sie alle gängigen Zahlungsmethoden sicher.",
+    "learnMore": "Mehr erfahren",
+    "mobileAppSub": "Mobile App",
+    "mobileAppTitle": "Mobile App",
+    "mobileAppDesc": "Mobile Anwendung für Ihr Restaurant oder Geschäft",
+    "mobileAppList1": "Verfügbar für iOS und Android.",
+    "mobileAppList2": "Direkte Push-Benachrichtigungen für Werbeaktionen.",
+    "mobileAppList3": "Nahtlose Integration mit Ihrem POS und Webshop.",
+    "getApp": "Holen Sie sich Ihre App",
+    "optimizationsTitle": "Optimierung & Marketing",
+    "optimizationsDesc": "Optimierung & Marketing für Ihr Restaurant oder Geschäft",
+    "dataDrivenTitle": "Datenbasierte Strategien",
+    "dataDrivenDesc": "Wir nutzen Echtzeitanalysen und Brancheneinblicke, um datengestützte Strategien zu entwickeln, die messbare Ergebnisse liefern.",
+    "tailoredTitle": "Maßgeschneiderte Lösungen",
+    "tailoredDesc": "Wir verstehen, dass jedes Unternehmen einzigartig ist. Unsere Strategien sind auf Ihre spezifischen Ziele zugeschnitten."
+  },
+  "ContactPage": {
+    "breadcrumb": "Kontakt",
+    "sub": "Kontaktieren Sie uns",
+    "title": "Zögern Sie nicht, unser \n Teammitglied zu kontaktieren",
+    "desc": "Haben Sie Fragen zu unseren Bestellsystemen oder Kassenlösungen? \n Unser Expertenteam hilft Ihnen gerne dabei, die passende Lösung für Ihr Unternehmen zu finden.",
+    "email": "ernova.digital.office@gmail.com",
+    "address": "Gisela-Legath-Gasse 5/1, 1220 Wien",
+    "phone": "+43 676 3008251",
+    "formTitle": "Schicken Sie uns eine Nachricht",
+    "fullName": "Vollständiger Name",
+    "phoneLabel": "Telefon",
+    "emailLabel": "Ihre E-Mail",
+    "comments": "Kommentare",
+    "sendBtn": "Nachricht senden"
+  },
+  "Faq": {
+    "subtitle": "Einige Fragen",
+    "title": "Häufig gestellte Fragen",
+    "q1": "Wie kann Ernova meinem Restaurant beim Wachsen helfen?",
+    "a1": "Ernova bietet ein komplettes digitales Bestellsystem, mobile Apps und Kassenintegration, um Ihre Abläufe zu optimieren und den Direktumsatz um bis zu 20 % zu steigern.",
+    "q2": "Ist die Integration von Ernova in mein bestehendes Kassensystem einfach?",
+    "a2": "Ja, unser System ist so konzipiert, dass es sich nahtlos in gängige Kassensysteme integrieren lässt, was eine Echtzeit-Synchronisation von Lagerbestand und Bestellungen ermöglicht.",
+    "q3": "Erhalte ich meine eigene gebrandete mobile App?",
+    "a3": "Absolut! Wir erstellen White-Label-Apps für iOS und Android speziell für Ihre Marke, damit Ihre Kunden direkt bei Ihnen bestellen können – ohne Portalgebühren.",
+    "q4": "Wie funktioniert das Online-Bestellsystem?",
+    "a4": "Ihre Kunden können Ihre Speisekarte durchsehen und Bestellungen über Ihre Website oder App aufgeben. Bestellungen werden direkt an Ihre Küche oder Kasse gesendet, was Fehler reduziert.",
+    "q5": "Welche Art von Support bietet Ernova an?",
+    "a5": "Wir bieten technischen Support rund um die Uhr und einen persönlichen Account-Manager, der Sie bei der Optimierung Ihrer digitalen Präsenz unterstützt."
+  },
+  "PricingPage": {
+    "breadcrumb": "Preisplan",
+    "testimonialSub": "Kundenfeedback",
+    "testimonialTitle": "Über 1250+ globale Kunden sprechen über uns"
+  },
+  "WorkingProcess": {
+    "subtitle": "Arbeitsprozess",
+    "title": "Wir schließen unsere Arbeit ab, indem wir \n einigen einfachen Wegen folgen",
+    "step1": "Schritt 01",
+    "step1Title": "Entdeckung & Analyse",
+    "step1Desc": "Wir beginnen damit, Ihre Geschäftsanforderungen zu verstehen \n und führen eine gründliche Marktforschung durch, um klare Ziele zu definieren.",
+    "step2": "Schritt 02",
+    "step2Title": "Wettbewerbsanalyse",
+    "step2Desc": "Wir analysieren die Strategien Ihrer Wettbewerber, \n um Chancen und Alleinstellungsmerkmale für Ihre Marke zu identifizieren.",
+    "step3": "Schritt 03",
+    "step3Title": "Strategie & Ausführung",
+    "step3Desc": "Unser Team entwickelt eine maßgeschneiderte Strategie \n und setzt diese präzise um, um eine optimale Leistung zu gewährleisten.",
+    "step4": "Schritt 04",
+    "step4Title": "3x Ergebnisse erzielen",
+    "step4Desc": "Durch kontinuierliche Optimierung und Überwachung \n liefern wir Ergebnisse, die Ihnen helfen, ein dreifaches Wachstum Ihres Unternehmens zu erzielen.",
+    "marketResearch": "Marktforschung",
+    "marketResearchDesc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae",
+    "processAnalysis": "Prozess und Analyse",
+    "processAnalysisDesc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae",
+    "successfulProject": "Erfolgreiches Projekt",
+    "successfulProjectDesc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae"
+  }
+}

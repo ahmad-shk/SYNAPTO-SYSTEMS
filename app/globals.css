@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+/* Dark Mode Overrides */
+html.dark body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+html.dark h1,
+html.dark h2,
+html.dark h3,
+html.dark h4,
+html.dark h5,
+html.dark h6 {
+  color: #ffffff !important;
+}
+
+html.dark .section-bg,
+html.dark .about-section,
+html.dark .service-section,
+html.dark .funfact-section,
+html.dark .team-section,
+html.dark .case-study-section {
+  background-color: #1a1a1a !important;
+}
+
+html.dark .service-items,
+html.dark .service-card-items,
+html.dark .team-items,
+html.dark .case-study-items {
+  background-color: #242424 !important;
+  color: #e0e0e0 !important;
+}
+
+html.dark .theme-btn {
+  background-color: #0d6efd !important;
+  color: #fff !important;
+}
+
+html.dark .header-1,
+html.dark .header-2,
+html.dark .header-3,
+html.dark .header-5,
+html.dark .header-6 {
+  background-color: #1e1e1e !important;
+}
+
+.theme-toggle-btn {
+  background: transparent;
+  border: none;
+  color: inherit;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 50%;
+  transition: background-color 0.3s ease;
+}
+
+.theme-toggle-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+html.dark .theme-toggle-btn {
+  color: #e0e0e0;
+}
+
+/* Responsive logo sizing */
+.site-logo {
+  height: 85px;
+  /* Size for laptop and large screens */
+  width: auto;
+  object-fit: contain;
+  object-position: left center;
+  /* Forces the image to align perfectly to the left edge */
+  display: block;
+}
+
+/* Make it bigger specifically on mobile screens */
+@media (max-width: 991px) {
+  .site-logo {
+    height: 75px !important;
+    margin-left: -86px !important;
+  }
+
+  .sticky-logo {
+    margin-left: -10px !important;
+  }
+}
+
+/* Responsive Footer Logo styling */
+.footer-logo-img {
+  height: 85px;
+  /* Desktop default size */
+  width: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: -86px !important;
+}
+
+/* Make footer logo smaller on mobile if needed, or customize */
+@media (max-width: 991px) {
+  .footer-logo-img {
+    height: 75px;
+    margin-left: -86px !important;
+    /* Mobile size */
+  }
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+  white-space: pre-line;
+}

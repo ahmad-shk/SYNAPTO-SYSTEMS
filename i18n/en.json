@@ -1,0 +1,713 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "homeMulti": "Home Multi Page",
+    "homeOne": "Home One Page",
+    "about": "About Us",
+    "services": "Services",
+    "team": "Our Team",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "pricing": "Pricing",
+    "projects": "Projects",
+    "news": "News",
+    "faq": "FAQs",
+    "home01": "Home 01",
+    "home02": "Home 02",
+    "home03": "Home 03",
+    "home04": "Home 04",
+    "home05": "Home 05",
+    "home06": "Home 06",
+    "multiPage": "Multi Page",
+    "onePage": "One Page",
+    "pages": "Pages",
+    "projectDetails": "Project Details",
+    "serviceDetails": "Service Details",
+    "teamDetails": "Team Details",
+    "pricingTable": "Pricing Table",
+    "fourZeroFour": "404 Page",
+    "blogDetails": "Blog Details",
+    "makeCall": "Make A Call",
+    "getQuote": "Get A Quote",
+    "testimonial": "Testimonial",
+    "contactInfo": "Contact Info",
+    "workingHours": "Mon-Fri, 09am - 05pm",
+    "contactUs": "Contact Us",
+    "aboutContact": "Streamlining your business with integrated digital solutions. From POS systems to online ordering, we've got you covered.",
+    "phone": "+43 676 3008251",
+    "email": "ernova.digital.office@gmail.com"
+  },
+  "Footer": {
+    "discuss": "Let’s Discuss About {span}",
+    "yourProjects": "Your Projects",
+    "getStarted": "Get Started",
+    "aboutUs": "About Us",
+    "aboutDesc": "Streamlining your business with integrated digital solutions. From POS systems to online ordering, we've got you covered.",
+    "quickLink": "Quick Link",
+    "getInTouch": "Get In Touch",
+    "recentNews": "Recent News",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Stay updated with our latest news and offers.",
+    "emailPlaceholder": "Your Email",
+    "allRightsReserved": "All Rights Reserved",
+    "address": "Gisela-Legath-Gasse 5/1, 1220 Wien",
+    "terms": "Imprint",
+    "privacy": "Privacy Policy",
+    "support": "Support",
+    "product": "Product",
+    "popularServices": "Popular Services",
+    "teamMember": "Team Member",
+    "privacySetting": "Privacy & Setting",
+    "pricingPackage": "Pricing Package",
+    "pricingPlan": "Pricing Plan",
+    "shopSmart": "Shop Smart",
+    "mobileApp": "Mobile App",
+    "optimizations": "Optimizations & Marketing",
+    "addressText": "Gisela-Legath-Gasse 5/1 \n 1220 Wien",
+    "email": "ernova.digital.office@gmail.com",
+    "phone": "+43 676 3008251",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "Hero": {
+    "title": "Complete Ordering and Delivery System for Your Shop",
+    "getStarted": "Learn More",
+    "viewServices": "View Services",
+    "trusted": "Trusted by businesses \n across the globe",
+    "getConsultations": "Get Consultations",
+    "formName": "Your Name",
+    "formEmail": "Email Address",
+    "formPhone": "Phone Number",
+    "formAgree": "I’ve Read and agreed to <termsLink>Terms & Conditions</termsLink>",
+    "formBtn": "Get Free Consultations"
+  },
+  "About": {
+    "subtitle": "About Company",
+    "title": "Preparing Your Success \n Trusted IT Services",
+    "experience": "25+ Years Of Experience",
+    "awards": "Awards Winning Company",
+    "description": "Ernova provides a complete suite of tools to help your business grow online and offline.",
+    "list1": "Connect with leads with zero hassle.",
+    "list2": "Take quick payments direct from meetings",
+    "list3": "Start finding leads that get coverts quickly",
+    "learnMore": "Learn More Us",
+    "authorRole": "CO Founder",
+    "awardsWinning": "Awards Winning Company"
+  },
+  "Hero1": {
+    "title": "We Take Care \n Your IT Solutions \n & Provide Best \n Services",
+    "btnStarted": "Get Started Now",
+    "btnServices": "View Services",
+    "trusted": "Trusted by 1M+ people \n around the globe",
+    "formTitle": "Get Consultations",
+    "formDesc": "Ready to Register Our Ernova Services",
+    "formName": "Your Name",
+    "formEmail": "Email Address",
+    "formPhone": "Phone Number",
+    "formAgree": "I’ve Read and agreed to <termsLink>Terms & Conditions</termsLink>",
+    "formBtn": "Get Started Now"
+  },
+  "Marquee": {
+    "itConsulting": "IT Consulting",
+    "co": "Co",
+    "machineLearning": "Machine Learning",
+    "webDev": "Web Development"
+  },
+  "Services": {
+    "subtitle": "Popular Services",
+    "title": "We Provide Best Quality \n Service For Your Business",
+    "bestMarketing": "We Provide Best Digital Marketing \n service to build an modern & \n professional service for clients",
+    "dataCenter": "Data Center and Cloud Services",
+    "webDev": "Web Development Software Renew",
+    "itManagement": "IT Management Machine Learning",
+    "digitalProduct": "Digital Product UI/UX Design",
+    "itCare": "Preparing For Your Business Success With IT Solution",
+    "readMore": "Read More",
+    "keywordResearch": "Shop Smart",
+    "socialMedia": "Social Media Marketing",
+    "emailMarketing": "Email Marketing",
+    "contentWriting": "Mobile App",
+    "webDevelopment": "Website Development",
+    "seoOptimizations": "SEO Optimizations",
+    "siteOptimizations": "Optimizations & Marketing",
+    "serviceDesc": "Web shop with order and delivery system for your restaurant or shop",
+    "serviceDescApp": "Mobile Application for your restaurant or shop",
+    "serviceDescOpt": "Optimizations & Marketing for your restaurant or shop",
+    "learnMore": "Learn More"
+  },
+  "Common": {
+    "contact": "Contact Us",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "getStarted": "Get Started",
+    "submit": "Submit Now",
+    "viewMoreMembers": "View More Members"
+  },
+  "Team": {
+    "subtitle": "Team Member",
+    "title": "Meet Our Professional \n Team Members",
+    "description": "Our experts are here to help you every step of the way.",
+    "productDesigner": "Product Designer",
+    "itConsultant": "IT Consultant",
+    "seniorManager": "Senior Manager",
+    "webDesigner": "Web Designer",
+    "ceo": "CEO & Founder"
+  },
+  "Pricing": {
+    "subtitle": "Pricing Package",
+    "title": "We Provide Best Quality \n Package For Your Business",
+    "title1": "Popular Pricing For IT Consulting",
+    "title2": "We Offer Amazing Pricing Package \n keep Under Budget",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "regular": "Regular Plan",
+    "business": "Business Plan",
+    "professional": "Professional Plan",
+    "standard": "Standard Plan",
+    "premium": "Premium Plan",
+    "smallBusiness": "For Small Businesses",
+    "month": "/month",
+    "choosePackage": "Choose Package",
+    "off": "{percent}% OFF",
+    "pricingDesc": "Choose the perfect plan to help your business scale efficiently with our custom digital solutions.",
+    "itConsulting": "IT Consulting",
+    "digitalProduct": "Digital Product Design",
+    "machineLearning": "Machine Learning",
+    "automation": "Automation templates",
+    "support": "Great Customer Support",
+    "blogCopy": "Blog & Article Copy",
+    "ecommerceCopy": "eCommerce Copy",
+    "socialMedia": "Social Media Copy",
+    "contentWritingFeature": "Advanced Content Writing Feature",
+    "adProviding": "Ad Providing tips"
+  },
+  "Home6": {
+    "hero": {
+      "welcome": "Welcome to Next Agency",
+      "title": "Building the 10x Faster Future \n with Artificial Intelligence",
+      "feature1": "10x Faster Power Buster",
+      "feature2": "Natural Language Processing",
+      "feature3": "Machine Learning System",
+      "emailPlaceholder": "Email Address",
+      "signUpFree": "Sign Up Free"
+    },
+    "workProcess": {
+      "subtitle": "Working Process",
+      "title": "Get Faster Solutions in \n Very Easy Ways",
+      "step1Title": "Create an Account",
+      "step1Desc": "Initial consultation to understand your unique business requirements.",
+      "step2Title": "Generate your content",
+      "step2Desc": "Deep dive into market trends to position your brand effectively.",
+      "step3Title": "Get Final Results",
+      "step3Desc": "Deployment of customized tools and strategies for maximum impact."
+    },
+    "popularService": {
+      "subtitle": "Popular Service",
+      "title": "Experience the full power AI \n Generator your data",
+      "service1Title": "Blog Post & Stories",
+      "service1Desc": "Advanced data analysis to drive informed business decisions and growth.",
+      "service2Title": "Social Media Content",
+      "service2Desc": "Smart automation tools to streamline your daily operations and save time.",
+      "service3Title": "eCommerce Copy",
+      "service3Desc": "Custom AI-driven solutions tailored to your specific industry needs.",
+      "service4Title": "Ad Targeting tips",
+      "service4Desc": "Secure and scalable cloud infrastructure for your growing digital presence.",
+      "service5Title": "Content Rewriter",
+      "service5Desc": "Real-time monitoring and support to ensure your systems run smoothly 24/7.",
+      "service6Title": "Optimized for conversions",
+      "service6Desc": "User-centric design focused on delivering the best experience for your customers.",
+      "readMore": "Read More"
+    },
+    "featureVideo": {
+      "subtitle": "What We Doing",
+      "title": "Better Solutions to Create \n your life more easier",
+      "desc": "Unlock the true potential of your business with our customized digital solutions designed for growth.",
+      "feature1Title": "Easy write and test more copy varistions",
+      "feature1Desc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur",
+      "feature2Title": "Easy write and test more copy varistions",
+      "feature2Desc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur"
+    },
+    "coreFeatures": {
+      "subtitle": "Core Features",
+      "title": "Unlock the power of AI & Create Content Faster",
+      "desc": "Unlock the true potential of your business with our customized digital solutions designed for growth.",
+      "list1": "Connect with leads with zero hassle.",
+      "list2": "Take quick payments direct from meetings",
+      "list3": "Start finding leads that get coverts quickly",
+      "signUpFree": "Sign Up Free"
+    },
+    "testimonial": {
+      "subtitle": "Clients Feedback",
+      "title": "What Our Clients Say Us",
+      "viewMore": "View More",
+      "trustedBy": "Trusted by 1M+ people \n around the globe"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "desc": "Digital marketing & advertising approach focuses on capturing the essential",
+      "q1": "Why Need Digital Marketing For Build Business ?",
+      "a1": "Our platform uses state-of-the-art technology to help you generate high-quality content in seconds, tailored to your brand voice.",
+      "q2": "How to Increase Web Traffic ?",
+      "a2": "By leveraging SEO-optimized content and automation, we help you reach a wider audience and drive more organic traffic.",
+      "q3": "How to Development SEO Optimization ?",
+      "a3": "Effective SEO involves technical audits, keyword strategy, and high-quality content creation, all of which our tools assist with.",
+      "q4": "Have Any Professional Team Member ?",
+      "a4": "Yes, our team consists of experts in digital marketing, and software engineering, dedicated to providing the best solutions.",
+      "q5": "Have you any Global Customer ?",
+      "a5": "Ernova has a diverse portfolio of global clients across various industries, providing localized solutions that meet international standards of excellence.",
+      "q6": "How can bias be addressed in AI algorithms?",
+      "a6": "We address algorithmic bias by using diverse data and implementing rigorous testing to ensure fair and accurate outputs.",
+      "q7": "Are AI and machine learning the same thing?",
+      "a7": "While they are related, AI is the broad concept of intelligent machines, whereas machine learning is a subset that focuses on learning from data.",
+      "q8": "How to Development SEO Optimization ?",
+      "a8": "Continuous monitoring and algorithm updates are key to maintaining peak performance in an ever-changing digital landscape.",
+      "q9": "Can AI replace human jobs?",
+      "a9": "Technology is designed to augment human capabilities, taking over repetitive tasks so you can focus on more creative and strategic work.",
+      "q10": "How can I learn more about AI and get in the field?",
+      "a10": "You can start by exploring our tutorials, blog posts, and documentation to build your knowledge and skills."
+    },
+    "newsletter": {
+      "subtitle": "Newsletter",
+      "title": "Start a free 7-days trial now & Get more updates",
+      "ctaTitle": "Subscribe Our Newsletter",
+      "emailPlaceholder": "Email Address",
+      "signUp": "Sign Up"
+    },
+    "partners": "We Have <span1>1563+</span1> Global Partners. Explore Our Global Clients"
+  },
+  "News": {
+    "subtitle": "Latest News",
+    "title": "Read Our Latest \n Blog & News",
+    "item1": "Revealing Images With Animations Gradients, Blend Modes Cool",
+    "item2": "List of 5 ways Generating Real Time Audio Sentiment Analysis",
+    "item3": "Revealing Images With Animations Gradients, Blend Modes Cool",
+    "date": "November 25, 2026"
+  },
+  "CaseStudy": {
+    "subtitle": "Popular Case Study",
+    "title": "Discover Our Popular Case Study \n That We Globally Completes",
+    "viewMore": "View More Cases",
+    "itConsulting": "IT Consulting",
+    "machineLearning": "Machine Learning",
+    "softwareDesign": "Software Design",
+    "item1": "How to achieve more with your nine to five",
+    "item2": "Strategies for outstanding future results",
+    "item3": "Discover a better way of system defining company goals."
+  },
+  "ProjectSlider": {
+    "productSales": "Product Sales",
+    "item1": "Product Sale Revenue And How to Growth your product Sales",
+    "digitalMarketing": "Digital Marketing",
+    "item2": "How to Improve your Digital Product Marketing to grow business",
+    "seoAnalysis": "SEO Analysis",
+    "item3": "How Important SEO for Develop Product Marketing",
+    "webOptimization": "Web Optimization",
+    "item4": "Top 10 Resources for Build Web Traffic and grow Web Optimization"
+  },
+  "Home2": {
+    "hero": {
+      "exp": "25+ Years Of Experience",
+      "title": "Build your Web Traffic With \n Our Next Agency",
+      "btn": "Learn More"
+    }
+  },
+  "Home3": {
+    "hero": {
+      "exp": "25+ Years Of Experience",
+      "title": "The Effective \n Solutions To Grow \n your {span}",
+      "span": "Business",
+      "desc": "Sed ut perspiciatis unde omnis iste natus voluptatem \n accusantium doloremque laudantium, totam rem aperiam",
+      "discover": "Discover More",
+      "viewServices": "View Services"
+    },
+    "offer": {
+      "subtitle": "What We Offer",
+      "title": "Business integrates with all \n your favorite tools",
+      "consulting": "Business Consulting",
+      "financial": "Financial Planning",
+      "marketing": "Grow Marketing & Sales",
+      "technology": "Modernize & Technology",
+      "desc": "We Fixed about your business Solutions"
+    },
+    "about": {
+      "trusted": "Trusted by 1M+ people \n around the globe",
+      "btn": "Learn More Us"
+    },
+    "boost": {
+      "title": "Ready to Boost Business \n & product Sales ?",
+      "desc": "Sed ut perspiciatis unde omnis iste natus voluptatem \n accusantium doloremque laudantium totam",
+      "btn": "Get Started Now"
+    }
+  },
+  "Home4": {
+    "hero": {
+      "exp": "25+ Years Of Experience",
+      "title": "The Perfect Digital marketing For grow your Business",
+      "desc": "Sed ut perspiciatis unde omnis iste natus voluptatem \n accusantium doloremque laudantium, totam rem aperiam",
+      "learnMore": "Learn More",
+      "trusted": "Trusted by 1M+ people \n around the globe"
+    },
+    "brand": {
+      "title": "We Have {span} Global Partners. Explore Our Global Clients",
+      "span": "1563+"
+    },
+    "about": {
+      "subtitle": "About Company",
+      "title": "We Have Experience Team to Lead your Business",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit volupta \n temes accusantium doloremque laudantium, totam rem",
+      "list1": "Marketing Strategy & SEO Camping",
+      "list2": "Best Customers Experience",
+      "btn": "Learn More Us"
+    },
+    "testimonial": {
+      "subtitle": "Testimonials",
+      "title": "We’ve 1250+ Global Clients Say Us"
+    },
+    "contact": {
+      "subtitle": "Contact Us",
+      "title": "Ready to Boost your Digital \n product marketing ?",
+      "desc": "Sed ut perspiciatis unde omnis iste natus error voluptatem \n accusantium doloremque laudantium, totam rem aperiam, \n eaque ipsa quae",
+      "btn": "Get A Quote"
+    }
+  },
+  "Home5": {
+    "hero": {
+      "sub": "Hello, I’m Mitchell E. Burke",
+      "title": "<span>Experience Digital</span> \n Product Designer",
+      "desc": "Sed ut perspiciatis unde omnis iste natus voluptatem \n accusantium doloremque laudantium, totam rem aperiam",
+      "hireMe": "Hire Me",
+      "watchVideo": "Watch IT Video",
+      "exp": "25+ Years Of Experience",
+      "awards": "Awards Winning Company"
+    },
+    "about": {
+      "sub": "About Me",
+      "title": "We Solve Your Business \n problem by Design",
+      "btn": "Learn More Us"
+    },
+    "resume": {
+      "sub": "Resume",
+      "title": "Education & Experience",
+      "items": {
+        "item1": {
+          "date": "2020 - Present",
+          "title": "Framer Designer & Developer",
+          "desc": "Google Agency"
+        },
+        "item2": {
+          "date": "2018 - 2020",
+          "title": "Front-End WordPress Developer",
+          "desc": "Amazon Agency"
+        },
+        "item3": {
+          "date": "2014 - 2017",
+          "title": "Webflow Developer & Co-Founder",
+          "desc": "XZS Agency"
+        },
+        "item4": {
+          "date": "2010 - 2013",
+          "title": "Leader Team of Marketing",
+          "desc": "Pixel Agency"
+        }
+      }
+    },
+    "service": {
+      "sub": "Popular Service",
+      "title": "Explore Our Popular Services",
+      "website": "Website Design",
+      "digital": "Digital Marketing",
+      "webflow": "Web Development",
+      "branding": "Design & Branding",
+      "desc": "Sed ut perspiciatis unde omnis iste"
+    },
+    "skills": {
+      "sub": "My Skills",
+      "title": "Skills What I’m Experiences"
+    },
+    "project": {
+      "sub": "Work Gallery",
+      "title": "Explore Featured Projects",
+      "btn": "View More Projects",
+      "cat1": "Product Design",
+      "cat2": "Website Design",
+      "p1": "Business Task Management \n Dashboard Design",
+      "p2": "Business Consulting Web \n Explorations Design",
+      "p3": "Mobile Applications Design",
+      "p4": "Furniture Website Design"
+    },
+    "pricing": {
+      "sub": "Pricing Package",
+      "title": "Popular Pricing For IT Consulting",
+      "regular": "Regular Plan",
+      "business": "Business Plan",
+      "pro": "Professional Plan",
+      "small": "For Small Businesses",
+      "it": "IT Consulting",
+      "design": "Digital Product Design",
+      "ml": "Machine Learning",
+      "auto": "Automation templates",
+      "support": "Great Customer Support",
+      "choose": "Choose Package",
+      "month": "/month"
+    },
+    "testimonial": {
+      "sub": "Clients Feedback",
+      "title": "We’ve 1250+ Global Clients Say Us"
+    },
+    "contact": {
+      "sub": "Contact Me",
+      "title": "Have Any Project On Minds! \n Let’s Work Together",
+      "name": "Full Name",
+      "phone": "Phone",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "btn": "Send a Message"
+    },
+    "global": {
+      "sub": "Global Partners",
+      "title": "We’ve 1253+ Global Partners, \n Meet Our Clients"
+    }
+  },
+  "BrandSlider": {
+    "web": "Web Designer",
+    "mobile": "Mobile Apps Design",
+    "dashboard": "Dashboard Design",
+    "digital": "Digital Marketing"
+  },
+  "FunFact": {
+    "subtitle": "Company Fun Fact",
+    "title": "Learn Our Company Statistics",
+    "conversionRate": "Average Conversion Rate",
+    "trafficGenerated": "Traffic Generated",
+    "positiveReview": "Positive Customer Review",
+    "proTeam": "Professional Team Members",
+    "description": "Offering tailored digital solutions to help your business reach its full potential in the modern market."
+  },
+  "Testimonial": {
+    "subtitle": "Testimonials",
+    "title": "What Our Clients Say \n About Our Services",
+    "text": "Indispensable tools for any modern shop. The system is intuitive and powerful.",
+    "text2": "We denounce with righteous indignation and dislike men who are so beguiled demoralized by the charms of pleasure of the moment",
+    "text3": "“ we denounce with right indignation and dislike men who are so beguile and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee “",
+    "text4": "Our commitment to excellence ensures that every project we undertake meets the highest standards of quality and performance.",
+    "textContent": "At Ernova, we are committed to providing innovative and reliable digital tools that empower businesses to succeed. Our team of experts works closely with you to develop customized strategies and high-performance systems, ensuring long-term growth and efficiency for your brand.",
+    "author1": "Ernova User"
+  },
+  "HomePage": {
+    "test_key": "",
+    "hero": {
+      "sub": "ERNOVA",
+      "title": "Complete Ordering and Delivery System for Your Shop",
+      "desc": "Everything you need to run your shop: App, Cashier & More.",
+      "btn": "Learn More"
+    },
+    "brand": {
+      "title": "We Have {count}+ Global Partners. Explore Our Global Clients"
+    },
+    "about_online_orders": {
+      "sub": "Order",
+      "title": "Online orders",
+      "desc": "Get started online – with your own website and app. More direct orders and up to 20% more profit than with portals.",
+      "feature1_title": "Maximized Profit Margins",
+      "feature1_desc": "Cut out the high commission fees from third-party portals and keep up to 20% more profit on every single order through your own app and site.",
+      "feature2_title": "Adaptable Growth Solutions",
+      "feature2_desc": "Whether you’re a small local shop or a growing chain, our solution grows with you. Add new features, locations, or services anytime without switching systems."
+    },
+    "about_pos": {
+      "sub": "POS & Payments",
+      "title": "POS & Payments",
+      "desc": "Streamline your in-store and on-the-go payments with our integrated POS and payment solutions. Accept all major payment methods securely and efficiently.",
+      "feature1_title": "Accept All Payment Methods",
+      "feature1_desc": "Accept all major payment methods including credit/debit cards, mobile wallets, and bank transfers. Secure, fast, and reliable transactions every time.",
+      "feature2_title": "Real-Time Inventory Sync",
+      "feature2_desc": "Track your stock levels automatically across all sales channels. Get real-time updates, low-stock alerts, and seamless inventory management to prevent overselling."
+    },
+    "about_sales": {
+      "sub": "Increase Sales",
+      "title": "Increase Sales",
+      "desc": "Boost your sales with our powerful marketing tools. Reach more customers, increase conversions, and grow your business.",
+      "feature1_title": "Targeted Marketing Campaigns",
+      "feature1_desc": "Run personalized marketing campaigns to engage customers at the right moment. Drive repeat business with targeted promotions and loyalty programs.",
+      "feature2_title": "Data-Driven Insights",
+      "feature2_desc": "Leverage real-time analytics and customer insights to make informed decisions. Understand what drives sales and optimize your strategies for maximum impact."
+    },
+    "video_section": {
+      "title": "Boost Your Business with Ernova",
+      "desc": "At Ernova, we provide comprehensive digital marketing solutions designed to elevate your brand and drive measurable results. From SEO and content marketing to social media management and web development, our expert team crafts strategies tailored to your unique business goals.",
+      "feature1_title": "Data-Driven Strategies",
+      "feature1_desc": "We leverage real-time analytics and industry insights to craft data-backed strategies that deliver measurable results. Every decision is informed by data to maximize your ROI.",
+      "feature2_title": "Tailored Solutions",
+      "feature2_desc": "We understand that every business is unique. Our strategies are customized to your specific goals, industry, and target audience for maximum impact."
+    },
+    "newsletter": {
+      "sub": "Newsletter",
+      "title": "Start a free 7-days trial now & Get more updates",
+      "desc": "Stay updated with our latest news and offers.",
+      "placeholder": "Email Address",
+      "btn": "Sign Up"
+    }
+  },
+  "Home1": {
+    "hero": {
+      "exp": "25+ Years Of Experience",
+      "title": "Build your Web Traffic With \n Our Next Agency",
+      "btn": "Learn More"
+    },
+    "brands": {
+      "title": "We Have {count}+ Global Partners. Explore Our Global Clients"
+    },
+    "planning": {
+      "subtitle": "Planning & Grow",
+      "title": "Planning And Executing Successful Events",
+      "desc": "At Ernova we help you to plan and execute successful events \n tailored to your business needs.",
+      "step1Title": "Market Research",
+      "step1Desc": "Attention to detail quality is unmatched industry",
+      "step2Title": "Content Marketing",
+      "step2Desc": "Attention to detail quality is unmatched industry",
+      "step3Title": "Customer Support",
+      "step3Desc": "Attention to detail quality is unmatched industry"
+    }
+  },
+  "Imprint": {
+    "title": "Imprint",
+    "info": "Information according to § 5 ECG, § 25 Media Act and § 14 UGB.",
+    "companyTitle": "Company Information",
+    "companyDesc": "Ernova provides complete ordering and delivery systems, custom mobile applications, and digital marketing optimizations.",
+    "contactTitle": "Contact Details",
+    "contactEmail": "Email: ernova.digital.office@gmail.com",
+    "contactWeb": "Website: www.ernova.at",
+    "disclaimerTitle": "Disclaimer",
+    "disclaimerDesc": "The contents of our pages were created with great care. However, we cannot guarantee the correctness, completeness, and topicality of the contents. As a service provider, we are responsible for our own content on these pages according to the general laws."
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "intro": "At Ernova, your privacy is our priority. This Privacy Policy outlines the types of information we collect, how we use it, and how we protect your personal data when you use our website or services.",
+    "collectionTitle": "Information Collection",
+    "collectionDesc": "We may collect personal details such as your name, email address, phone number, and physical address when you register for our services, contact support, or interact with our site.",
+    "usageTitle": "How We Use Your Information",
+    "usageDesc": "The information we collect is used to provide, maintain, and improve our services to you. We may also use it to communicate with you about updates, promotional offers, and customer support inquiries.",
+    "securityTitle": "Data Security",
+    "securityDesc": "We implement industry-standard security measures to ensure that your personal information is kept safe from unauthorized access, disclosure, alteration, or destruction."
+  },
+  "CookiePolicy": {
+    "title": "Cookie Policy",
+    "intro": "This Cookie Policy explains how Ernova uses cookies and similar technologies to recognize you when you visit our website.",
+    "whatTitle": "What are cookies?",
+    "whatDesc": "Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently.",
+    "whyTitle": "Why do we use cookies?",
+    "whyDesc": "We use first-party and third-party cookies for several reasons. Some cookies are required for technical reasons in order for our website to operate.",
+    "controlTitle": "How can I control cookies?",
+    "controlDesc": "You have the right to decide whether to accept or reject cookies. You can exercise your cookie rights by setting your preferences in your browser."
+  },
+  "GrowBusiness": {
+    "sub": "Grow your Business",
+    "title": "Innovative Business Increase and Branding Solutions",
+    "desc": "Ernova empowers your business with high-performance digital tools, covering everything from online ordering to integrated POS systems. Our goal is to help you scale efficiently and reach more customers with ease.",
+    "increaseSales": "Increase Sales",
+    "reducedLosses": "Reduced Losses",
+    "businessGrowth": "Business growth",
+    "descShort": "Elevate your brand with our innovative growth strategies and custom digital solutions."
+  },
+  "Cta": {
+    "title": "Ready to start your online store? \n Get your own website and app now.",
+    "btn": "Contact Us"
+  },
+  "Breadcrumb": {
+    "home": "Home"
+  },
+  "AboutPage": {
+    "sub": "About Company",
+    "title": "We Increase Your Website Lead and Grow Sales",
+    "desc": "We specialize in driving measurable results for our clients through advanced marketing techniques and user-centric design. Our approach ensures your business stays ahead in a competitive market.",
+    "qualityTitle": "Superior Quality Of Work",
+    "qualityDesc": "Our attention to detail and quality is unmatched in the industry. \n We’re not just a resource provider but also a key",
+    "flexibleTitle": "Flexible Scaling & Support",
+    "flexibleDesc": "In the early years, our dedicated team worked tirelessly to key Next milestones or achievements, such as product launches, partnerships or expansions these efforts laid the foundation",
+    "learnMore": "Learn More Us",
+    "clientsCount": "We Have {count}+ Clients"
+  },
+  "ServicePage": {
+    "breadcrumb": "Our Services",
+    "title": "Popular Services",
+    "coreFeatures": "Core Features"
+  },
+  "ServiceDetailsPage": {
+    "breadcrumb": "Ernova Digital Solutions",
+    "problemSub": "Problem Solutions",
+    "shopSmartTitle": "Shop Smart",
+    "shopSmartDesc": "Web shop with order and delivery system for your restaurant or shop",
+    "shopSmartList1": "Get started online with your own website and app.",
+    "shopSmartList2": "Keep up to 20% more profit on every online order.",
+    "shopSmartList3": "Accept all major payment methods securely.",
+    "learnMore": "Learn More Us",
+    "mobileAppSub": "Mobile App",
+    "mobileAppTitle": "Mobile App",
+    "mobileAppDesc": "Mobile Application for your restaurant or shop",
+    "mobileAppList1": "Available on iOS and Android.",
+    "mobileAppList2": "Direct push notifications for promotions.",
+    "mobileAppList3": "Seamless integration with your POS and web shop.",
+    "getApp": "Get Your App",
+    "optimizationsTitle": "Optimizations & Marketing",
+    "optimizationsDesc": "Optimizations & Marketing for your restaurant or shop",
+    "dataDrivenTitle": "Data-Driven Strategies",
+    "dataDrivenDesc": "We leverage real-time analytics and industry insights to craft data-backed strategies that deliver measurable results. Every decision is informed by data.",
+    "tailoredTitle": "Tailored Solutions",
+    "tailoredDesc": "We understand that every business is unique. Our strategies are customized to your specific goals, industry, and target audience for maximum impact."
+  },
+  "ContactPage": {
+    "breadcrumb": "Contact Us",
+    "sub": "Contact Us",
+    "title": "Don’t Hesitate to Contact \n Our Team Member",
+    "desc": "Have questions about our ordering systems or POS solutions? \n Our expert team is ready to help you find the best fit for your business.",
+    "email": "ernova.digital.office@gmail.com",
+    "address": "Gisela-Legath-Gasse 5/1, 1220 Wien",
+    "phone": "+43 676 3008251",
+    "formTitle": "Send Us Message",
+    "fullName": "Full Name",
+    "phoneLabel": "Phone",
+    "emailLabel": "Your Email",
+    "comments": "Comments",
+    "sendBtn": "Send a Message"
+  },
+  "Faq": {
+    "subtitle": "Some Question",
+    "title": "Frequently Asked Questions",
+    "q1": "How can Ernova help my restaurant grow?",
+    "a1": "Ernova provides an all-in-one digital ordering system, mobile apps, and POS integration to streamline your operations and increase direct sales by up to 20%.",
+    "q2": "Is it easy to integrate Ernova with my existing POS?",
+    "a2": "Yes, our system is designed to seamlessly integrate with major POS systems, ensuring real-time inventory and order synchronization across all channels.",
+    "q3": "Do I get my own branded mobile app?",
+    "a3": "Absolutely! We build white-label iOS and Android apps specifically for your brand, allowing your customers to order directly without portal commission fees.",
+    "q4": "How does the online ordering system work?",
+    "a4": "Your customers can browse your menu and place orders through your website or app. Orders are sent directly to your kitchen or POS, reducing errors and saving time.",
+    "q5": "What kind of support does Ernova offer?",
+    "a5": "We provide 24/7 technical support and a dedicated account manager to help you optimize your digital presence and ensure everything runs smoothly."
+  },
+  "PricingPage": {
+    "breadcrumb": "Pricing Plan",
+    "testimonialSub": "Clients Feedback",
+    "testimonialTitle": "We’ve 1250+ Global Clients Say Us"
+  },
+  "WorkingProcess": {
+    "subtitle": "Working Process",
+    "title": "We Complete Our Work to Follow \n Some Easy Ways",
+    "step1": "Step 01",
+    "step1Title": "Discovery & Analysis",
+    "step1Desc": "We begin by understanding your business needs \n and conducting thorough market research to define clear goals.",
+    "step2": "Step 02",
+    "step2Title": "Competitor Analysis",
+    "step2Desc": "We analyze your competitors' strategies \n to identify opportunities and unique selling points for your brand.",
+    "step3": "Step 03",
+    "step3Title": "Strategy & Execution",
+    "step3Desc": "Our team develops a custom strategy \n and executes it with precision to ensure optimal performance.",
+    "step4": "Step 04",
+    "step4Title": "Get 3x Results",
+    "step4Desc": "Through continuous optimization and monitoring, \n we deliver results that help you achieve 3x growth in your business.",
+    "marketResearch": "Market Research",
+    "marketResearchDesc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae",
+    "processAnalysis": "Process and Analysis",
+    "processAnalysisDesc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae",
+    "successfulProject": "Successful Project",
+    "successfulProjectDesc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae"
+  }
+}
