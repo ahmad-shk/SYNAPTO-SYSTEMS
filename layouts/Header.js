@@ -623,7 +623,7 @@ const Sidebar = ({ sidebarToggle, close, menu, single }) => {
               <div className="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
                 <div className="offcanvas__logo">
                   <Link href="/">
-                    <img src="/assets/img/logo/logo-black.png" alt="logo-img" className="site-logo" />
+                    <img src="/assets/img/logo/logo-white.png" alt="logo-img" className="site-logo" />
                   </Link>
                 </div>
                 <div className="offcanvas__close" onClick={() => close()}>
@@ -729,7 +729,7 @@ const Header1 = ({ single, menu }) => {
                 </Link>
                 <Link href="/">
                   <img
-                    src="/assets/img/logo/logo-black.png"
+                    src="/assets/img/logo/logo-white.png"
                     alt="logo-img"
                     className="logo-2 site-logo"
                   />
@@ -798,7 +798,7 @@ const Header2 = ({ single }) => {
             <div className="header-main">
               <div className="sticky-logo">
                 <Link href="/">
-                  <img src="/assets/img/logo/logo-black.png" alt="logo-img" className="site-logo" />
+                  <img src="/assets/img/logo/logo-white.png" alt="logo-img" className="site-logo" />
                 </Link>
               </div>
               <div className="header-left">
@@ -858,7 +858,7 @@ const Header3 = ({ single }) => {
             <div className="header-main">
               <div className="sticky-logo">
                 <Link href="/">
-                  <img src="/assets/img/logo/logo-black.png" alt="logo-img" className="site-logo" />
+                  <img src="/assets/img/logo/logo-white.png" alt="logo-img" className="site-logo" />
                 </Link>
               </div>
               <div className="header-left">
@@ -931,7 +931,7 @@ const Header5 = ({ single }) => {
                   <img src="/assets/img/logo/logo-white.png" alt="logo-img" className="site-logo" />
                 </Link>
                 <Link href="/" className="logo-2">
-                  <img src="/assets/img/logo/logo-black.png" alt="logo-img" className="site-logo" />
+                  <img src="/assets/img/logo/logo-white.png" alt="logo-img" className="site-logo" />
                 </Link>
               </div>
               <div className="header-left">
@@ -984,7 +984,7 @@ const Header6 = ({ single }) => {
             <div className="header-main">
               <div className="sticky-logo">
                 <Link href="/">
-                  <img src="/assets/img/logo/logo-black.png" alt="logo-img" className="site-logo" />
+                  <img src="/assets/img/logo/logo-white.png" alt="logo-img" className="site-logo" />
                 </Link>
               </div>
               <div className="header-left">

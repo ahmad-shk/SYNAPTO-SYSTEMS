@@ -3,7 +3,7 @@ import { sliderProps } from "@/utility/sliderProps";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 const ClientSlider = () => {
-  return (
+  return ( 
     <Swiper {...sliderProps.brandSlider} className="swiper brand-slider">
       <div className="swiper-wrapper">
         <SwiperSlide className="swiper-slide">

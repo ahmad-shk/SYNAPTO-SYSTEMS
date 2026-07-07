@@ -21,7 +21,7 @@ const Cta = ({ sectionPadding = false }) => {
             <img src="/assets/img/logo/logo-white.png" alt="img" style={{ maxWidth: "250px" }} />
             <div className="circle-shape">
               <img src="/assets/img/cta/circle-shape.png" alt="shape-img" />
-            </div>
+            </div> 
           </div>
           <Link
             href="/about"

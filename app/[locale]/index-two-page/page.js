@@ -31,7 +31,7 @@ const page = async () => {
         </div>
         <div className="girl-shape float-bob-x">
           <img src="/assets/img/hero/girl.png" alt="shape-img" />
-        </div>
+        </div> 
         <div className="frame-shape-2">
           <img src="/assets/img/hero/frame-2.png" alt="shape-img" />
         </div>
